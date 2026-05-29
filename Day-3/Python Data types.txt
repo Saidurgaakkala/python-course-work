@@ -1,0 +1,41 @@
+Data types:
+1.numeric data types:
+1. intergers(0-9)
+2. float-decimal points
+ 3. complex(imaginary values)
+ex:c=12+8j										
+2.sequential data types:order based
+   1.string:collection of characters end closed between single quotations or multiple quotations
+    string is a immutable data type.
+ ex:s="dfghj"
+   2.list:collection of elements enclosed between a square braces
+      list is an ordered data type
+      list is mutable data type
+      list is the dynamic datatype we can add anything can perform any operation
+      list is consists of duplicate.
+ex:[1,2,3]
+3.Tuple:tuple is immutable,fixed data types,follows the order,hetrogenius
+ex:(1,2,3)
+3.Mapping data types:
+1.set:sets doesnot allow duplicates,hetrogenius ,set is unordered ,set is mutable.
+ex:{1,2,3,4}
+2.dictionary:key value pair,some mutable data types
+ex:
+4.Boolean data type:true/false
+5.None Datatype:reprents absence of value
+Type conversions:
+convert one data type into another data type
+
+primary data types:
+int:convert into float,complex,string,boolean,
+float:convert into int,complex,string,boolean
+complez:convert into string,boolean
+string:convert into integer(digits),float(didgits)complex(digit)list,tuple,set,boolean
+list:convert into str,tuple,boolean
+tuple:str,list,set,boolean
+set:str,list,tuple,boolean
+dic:str,list,tuple,set,boolean
+bool:str,float,complex,int
+
+
+
