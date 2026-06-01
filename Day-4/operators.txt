@@ -1,0 +1,43 @@
+operators:
+1.arthematic operators(addition(+),sub(-),mul(*),divi(/),floor(//),module(%),exponent(**)power
+2.comparison operators (equal to(==),!=(not equal to)>(greater than),<(less than)<=(less than or equal),>=(greater than or equal)
+3.assignment operators(=,+=,*=,/=,//=,%=,**=)
+4.logical operators(and,or,not)
+5.membership operators(in,not,in)membership is applied for str,list,tuple,set,dict
+6.identity operators(is is not)
+7.bitwise operators(&, | ,^, ~, << ,>>)
+AND
+00-0
+01-0
+10-0
+11-1
+ OR
+00-1
+01-1
+10-1
+11-0
+NOT
+0-1
+1-0
+
+
+OUTPUT FORMATING:
+a=12
+b=12.34
+c=python
+print("a=",a,'b=',b, 'c',c,sep='',end='@@@@')
+a=12b=12.34c=python@@@@
+print(f'a={a} b={b} c={c}')
+a=12 b=12.34 c=python
+print('a=%d b=%.2f c=%s' %(a,b,c))
+a=12 b=12.34 c=python
+
+print('a={} b={} c{}'.format(a,b,c))
+a=12 b=12.34 c=python
+
+print('a={2} b={0} c={1}'.format(a,b,c))
+a=12 b=12.34 c=python
+
+
+
+
