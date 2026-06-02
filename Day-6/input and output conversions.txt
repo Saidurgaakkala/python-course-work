@@ -1,0 +1,50 @@
+Input and output conversions:
+int: int(input())
+float: float(input())
+str: input()
+
+list of str: input().split
+tuple of str: tuple(input().split())
+set of str: set(input().split())
+
+list of int: list(map(int,input().split()))
+tuple of int: tuple(map(int,input().split())
+set of int:set(map(int,input().split()))
+
+list of float:list(map(float.input().split()))
+tuple of float:tuple(map(float.input().split()))
+set of float:set(map(float.input().split()))
+ 
+operations in string:
+1.concatenation(+): combining two are more strings into one
+example:first="Hello"
+        second="World"
+        result=first+""+second
+        print(result)
+output:Hello World
+
+2.repetation(*):repeating a string multiple times
+example:text="HI"
+        print(text*3)
+output:Hi Hi Hi
+
+3.indexing:accessing a character using its position
+example:name="Python"
+        print(name[0])
+        print(name[2])
+output:
+p
+t
+4.slicing:extracting a part of the string
+example:name="Python"
+        print(name[1:4]
+output: yth
+
+5.membership(in,not,in):checking if substring exits
+example:text="Python program"
+        print("Python" in text)
+        print("Java" not in text)
+output:True
+       True
+
+
