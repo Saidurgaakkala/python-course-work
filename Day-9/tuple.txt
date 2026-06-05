@@ -1,0 +1,42 @@
+Tuple:
+A tuple is an ordered collection of items.its is immutable,which means its elements cannot be changed after creation.it allows duplicates.
+it is indicated ()
+
+Operations:
+1.concatenation
+2.repetation
+3.slicing
+4.indexing
+5.membership
+ 
+Tuple Methods:
+1.length
+2.sort
+3.min
+4.max
+5.sum
+6.count
+7.index
+
+packing and unpacking:
+packing:
+putting multiple values into a single tuple
+unpacking:
+extracting tuple values into separate variables
+
+Sets:
+collection of unique elements
+properties:
+unordered
+mutable
+does not allow duplicate values
+uses curly braces
+
+operations:
+membership 
+
+subset&superset:
+
+
+
+
