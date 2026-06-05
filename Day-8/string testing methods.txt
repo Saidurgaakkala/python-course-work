@@ -1,0 +1,55 @@
+String Testing methods:
+1.isalpha()
+2.isalnum()
+3.islower()
+4.isupper()
+5.isspace()
+6.istitle()
+7.isidentifier()
+
+isdecimal()-identify the decimals(0-9)
+isdigit()-
+isnumeric()-
+
+List:
+a list is a collection of elements and ends with an []square brackets
+properties:
+list follows the order
+list is mutable
+allows duplicate values
+example:
+list=[]
+
+list operations:
+1.concatenation-combines two list
+2.repetation-repeats the list
+3.indexing
+4.slicing
+5.membership
+
+list methods:
+1.append() method:
+adds an element to the end of the list
+2.insert()method:
+adds an element at a specific position
+3..extend()method:
+adds multiple elements from another list
+4.pop()method:
+delete the element end of the list
+5.clear()method:
+removes all element from the list
+
+String methods:
+sorted():returns a new sorted list without changing the original list
+min():returns the smallest element in a list
+max():largest element in list
+reverse():reverse the order of elements in list
+index():returns the position
+count():number of times 
+
+
+
+
+
+
+
