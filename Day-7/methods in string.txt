@@ -1,0 +1,50 @@
+Built-in string function:
+1.len()
+2.max()/min()
+3.sorted()
+4.chr()/ord()
+
+Case conversion methods:
+1.upper()
+2.lower()
+3.capitalize()
+4.title()
+5.swapcase()
+6.casefold()
+
+alignment & formatting methods:
+1.center(width,fillchar)-centers the string within width
+2.ljust(width,fillchar)-left align the string within width
+3.rjust(width,fillchar)-right aligns the string within width
+4.zfill(width,fillchar)-pads the string with zeros on the left
+ 
+search and find method:
+1.rfind(sub)
+2.index(sub)/find()
+3.rindex(sub)rfind()
+4.count(sub)
+
+Replace and modify methods:
+1.replace(old,new)
+2.translate(table)
+3.maketrans()
+
+splitting and joining methods:
+1.split(sep)
+2.rsplit(sep)
+3.splitlines(sep)
+4.join(iterable)
+
+Encoding and Decoding:
+encoding:
+transforms data into specific format so it can be stored,transmitted or processed
+decoding:
+reverse the encoding process to recover the original data
+
+Whitespaces & Trimming Methods:
+1.strip(chars)
+2.lstrip(chars)
+3.rstrip(chars)
+
+
+
