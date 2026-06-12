@@ -1,0 +1,10 @@
+While Loop:
+
+a while loop is used to execute a block of code repeatedly as long as a condition is true.
+
+syntax:
+Int
+while condition:
+update
+#statement
+
