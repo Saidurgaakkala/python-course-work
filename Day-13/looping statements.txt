@@ -1,0 +1,47 @@
+looping statements:
+looping statements are used to execute a block of code repeatedly until a specified condition is true
+
+types:
+1.for loop:
+used when the number of iterations is known
+2.while loop:
+used when the number of iterationsis not known and depends on a condition
+
+sequence:
+string,list tuple set dict range()
+
+range function:
+will give numeric value in output
+
+start(0)-starting value(default 0) ex:starting value is 1 default value also 1
+stop+1(n)-ending value(not included)
+step(1)-increment/decrement value(default is 1)
+
+iterate using index:
+accessing each element of a list(or string)by its position number(index)
+
+example with list:
+fruits=["apple","banana","mango"]
+for i in range(len(fruits)):
+    print(i.fruits[i])
+
+example with string:
+name="python"
+for i in range(len(name)):
+    print(i,name[i])
+
+enumerator:
+it is used to get both the index and the value while iterating through a list,tuple,string etc
+
+jumping statements:
+used to change the normal flow of loops
+1.break-stops the loop or terminating
+2.continue-skips the current  iteration
+3.pass-does nothing
+
+
+
+    
+
+
+
