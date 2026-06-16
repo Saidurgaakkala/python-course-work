@@ -1,0 +1,29 @@
+FUNCTION:
+A function isa reusable block of code that performs a specific task and clean and can be called whenever needed in a program.
+
+Why we need function"
+1.code resuable
+2.avoid code repetition
+3.easy debugging
+
+Built in Function:
+
+built in function are predefined provided in python.we can use them directly without creating them ourselves.
+
+examples:
+print()
+input()
+len()
+type()
+float()
+str()
+
+USER DEFINED FUNCTION:
+It is a function created by the programmer using the def keyword to perform a specific task.
+
+TYPES OF FUNCTIONS:
+1.positional
+2.keyword
+3.default
+4.variable-length
+
