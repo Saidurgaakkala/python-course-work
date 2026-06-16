@@ -1,0 +1,9 @@
+NESTED LOOP:
+A nested loop is a loop that is placed inside the another loop.The inner loop executes completely for each iteration of the outer loop.
+
+example:
+for i in range(3):
+   for j in range(2):
+print(i,j)
+
+patterns:
