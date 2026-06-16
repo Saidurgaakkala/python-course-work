@@ -1,0 +1,7 @@
+PATTERNS:
+patterns usually refer to programs that print shapes using loops.these are common beginner excercises for learning for loops and nested loops.
+1.square pattern
+2.right triangle 
+3.inverted triangle
+4.pyramid
+
